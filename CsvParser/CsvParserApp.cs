@@ -41,12 +41,13 @@ namespace CsvParser
             UColumn[] uColumns = this.appSettings.GetColumns(configFilename);
             string filenameForReading = this.appSettings.GetFilenameForReading(configFilename);
             string filenameForWriting = this.appSettings.GetFilenameForWriting(configFilename);
-
+            int startReadAtRow = this.appSettings.GetSkipNoOfRowsWithText(configFilename);
             log.Info("Getting configuration for columns ... done");
+            log.Info($"filenameForReading: <{filenameForReading}>, filenameForWriting: <{filenameForWriting}>, startReadAtRow: <{startReadAtRow}>");
 
             // ReadColumnData
             log.Info("Reading column data ...");
-            columnDataReader.Read(uColumns, filenameForReading);
+            columnDataReader.Read(uColumns, filenameForReading, startReadAtRow);
             log.Info("Reading column data ... done");
             log.Info($"No of columns: <{uColumns.Length}>, no of rows: <{uColumns[0].Data.Count}>");
 
@@ -54,7 +55,6 @@ namespace CsvParser
             log.Info("Writing column data ...");
             columnDataWriter.Write(uColumns, filenameForWriting);
             log.Info("Writing column data ... done");
-
             log.Debug("<---");
 
         }

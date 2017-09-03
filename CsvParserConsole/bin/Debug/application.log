@@ -423,3 +423,600 @@
 2017-09-03 09:37:38,520 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
 2017-09-03 09:37:38,521 DEBUG CsvParser.CsvParserApp Parse - <---
 2017-09-03 09:37:38,521 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:40:22,477 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:40:22,523 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:40:22,532 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:40:22,533 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:40:22,534 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:40:22,535 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:40:22,536 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:40:22,537 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:40:22,538 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:40:22,539 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:40:22,540 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:40:22,543 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:40:22,556 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:40:22,557 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:40:22,558 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <3>
+2017-09-03 09:40:22,558 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:40:22,560 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:40:22,563 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:40:22,564 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:40:22,565 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:40:46,014 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:40:46,065 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:40:46,074 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:40:46,075 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:40:46,076 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:40:46,077 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:40:46,078 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:40:46,078 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:40:46,080 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:40:46,081 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:40:46,081 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:40:46,084 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:40:46,097 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:40:46,098 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:40:46,098 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <3>
+2017-09-03 09:40:46,099 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:40:46,100 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:40:46,104 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:40:46,104 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:40:46,105 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:41:02,667 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:41:02,714 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:41:02,724 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:41:02,725 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:41:02,725 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:41:02,726 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:41:02,727 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:41:02,728 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:41:02,730 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:41:02,730 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:41:02,731 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:41:02,734 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:41:02,747 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:41:02,748 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:41:02,749 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <3>
+2017-09-03 09:41:02,750 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:41:02,751 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:41:02,755 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:41:02,756 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:41:02,756 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:45:19,859 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:45:19,904 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:45:19,913 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:45:19,914 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:45:19,914 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:45:19,915 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:45:19,916 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:45:19,917 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:45:19,919 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:45:19,920 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:45:19,921 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:45:19,924 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:45:19,932 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:45:19,934 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:45:19,934 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <0>
+2017-09-03 09:45:19,935 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:45:19,936 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:45:19,939 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:45:19,940 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:45:19,940 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:45:57,138 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:45:57,186 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:45:57,195 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:45:57,196 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:45:57,197 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:45:57,198 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:45:57,198 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:45:57,199 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:45:57,202 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:45:57,203 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:45:57,204 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:45:57,207 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:45:57,221 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:45:57,221 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:45:57,222 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <2>
+2017-09-03 09:45:57,223 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:45:57,224 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:45:57,228 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:45:57,228 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:45:57,229 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:46:14,273 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:46:14,320 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:46:14,329 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:46:14,330 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:46:14,331 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:46:14,332 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:46:14,333 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:46:14,334 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:46:14,335 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:46:14,336 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:46:14,337 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:46:14,340 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:46:14,354 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:46:14,355 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:46:14,356 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <1>
+2017-09-03 09:46:14,357 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:46:14,358 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:46:14,361 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:46:14,362 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:46:14,363 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:52:38,653 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:52:38,701 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:52:38,710 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:52:38,711 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:52:38,712 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:52:38,713 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:52:38,714 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:52:38,715 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:52:38,716 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:52:38,717 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:52:38,718 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <1>
+2017-09-03 09:52:38,719 INFO CsvParser.CsvParserApp Parse - 
+2017-09-03 09:52:38,719 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:52:38,722 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:52:38,736 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:52:38,737 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:52:38,737 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <3>
+2017-09-03 09:52:38,738 INFO CsvParser.CsvParserApp Parse - 
+2017-09-03 09:52:38,739 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:52:38,740 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:52:38,743 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:52:38,744 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:52:38,745 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 09:53:12,943 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 09:53:12,992 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 09:53:13,001 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 09:53:13,002 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 09:53:13,003 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 09:53:13,004 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-03 09:53:13,005 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 09:53:13,006 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <dummy.txt>
+2017-09-03 09:53:13,008 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 09:53:13,009 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 09:53:13,009 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <2>
+2017-09-03 09:53:13,010 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 09:53:13,013 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <4>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 09:53:13,027 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 09:53:13,028 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 09:53:13,028 INFO CsvParser.CsvParserApp Parse - No of columns: <4>, no of rows: <2>
+2017-09-03 09:53:13,029 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 09:53:13,030 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 09:53:13,034 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 09:53:13,035 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 09:53:13,035 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:03:11,583 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:03:11,629 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:03:11,637 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:03:11,638 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:03:11,638 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:03:11,640 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:03:11,640 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:03:11,641 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:03:11,643 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:03:11,643 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:03:11,644 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <1>
+2017-09-03 10:03:11,645 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:03:11,648 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:03:11,662 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:03:11,663 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:03:11,663 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:03:11,664 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:03:11,665 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:03:11,669 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:03:11,669 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:03:11,670 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:03:51,029 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:03:51,078 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:03:51,087 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:03:51,088 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:03:51,089 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:03:51,090 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:03:51,091 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:03:51,092 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:03:51,094 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:03:51,094 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:03:51,095 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <1>
+2017-09-03 10:03:51,096 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:03:51,100 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:03:51,118 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:04:05,729 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:04:05,777 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:04:05,786 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:04:05,787 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:04:05,787 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:04:05,788 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:04:05,789 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:04:05,790 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:04:05,792 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:04:05,793 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:04:05,793 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:04:05,794 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:04:05,797 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:04:05,812 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:04:05,813 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:04:05,814 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <2>
+2017-09-03 10:04:05,814 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:04:05,815 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:04:05,819 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:04:05,820 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:04:05,820 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:04:23,552 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:04:23,601 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:04:23,610 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:04:23,611 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:04:23,612 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:04:23,613 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:04:23,614 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:04:23,615 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:04:23,617 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:04:23,617 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:04:23,618 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:04:23,619 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:04:23,622 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:04:23,635 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:04:23,636 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:04:23,637 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <2>
+2017-09-03 10:04:23,637 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:04:23,639 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:04:23,642 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:04:23,643 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:04:23,643 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:06:42,879 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:06:42,924 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:06:42,932 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:06:42,933 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:06:42,934 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:06:42,935 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:06:42,936 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:06:42,936 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:06:42,938 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:06:42,939 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:06:42,940 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <2>
+2017-09-03 10:06:42,940 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:06:42,944 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:06:42,962 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:06:48,764 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:06:48,817 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:06:48,825 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:06:48,826 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:06:48,826 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:06:48,827 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:06:48,828 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:06:48,828 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:06:48,830 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:06:48,831 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:06:48,831 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <2>
+2017-09-03 10:06:48,832 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:06:48,834 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:06:48,852 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:09:00,222 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:09:00,270 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:09:00,279 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:09:00,280 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:09:00,281 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:09:00,282 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:09:00,283 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:09:00,284 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:09:00,285 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:09:00,286 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:09:00,286 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <2>
+2017-09-03 10:09:00,287 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:09:00,291 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:09:00,308 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:09:39,837 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:09:39,883 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:09:39,892 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:09:39,893 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:09:39,894 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:09:39,895 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:09:39,896 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:09:39,897 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:09:39,898 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:09:39,899 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:09:39,900 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <2>
+2017-09-03 10:09:39,900 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:09:39,903 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:09:39,921 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:10:13,505 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:10:13,550 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:10:13,559 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:10:13,560 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:10:13,561 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:10:13,562 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:10:13,563 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:10:13,563 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:10:13,565 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:10:13,567 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:10:13,567 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:10:13,568 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:10:13,571 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:10:13,585 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:10:13,586 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:10:13,586 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:10:13,587 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:10:13,588 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:10:13,592 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:10:13,592 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:10:13,593 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:10:36,816 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:10:36,862 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:10:36,871 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:10:36,872 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:10:36,872 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:10:36,873 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:10:36,874 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:10:36,875 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:10:36,877 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:10:36,878 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:10:36,878 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:10:36,879 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:10:36,882 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:10:36,896 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:10:36,897 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:10:36,897 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:10:36,898 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:10:36,899 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:10:36,904 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:10:36,905 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:10:36,905 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:10:46,977 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:10:47,028 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:10:47,038 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:10:47,039 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:10:47,040 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:10:47,041 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:10:47,042 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:10:47,043 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:10:47,045 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:10:47,045 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:10:47,046 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:10:47,047 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:10:47,050 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:10:47,064 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:10:47,065 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:10:47,065 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:10:47,066 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:10:47,067 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:10:47,071 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:10:47,071 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:10:47,072 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:11:25,244 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:11:25,291 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:11:25,301 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:11:25,302 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:11:25,302 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:11:25,303 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:11:25,304 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:11:25,305 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:11:25,307 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:11:25,308 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:11:25,309 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:11:25,309 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:11:25,313 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:11:25,327 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:11:25,328 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:11:25,328 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:11:25,329 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:11:25,330 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:11:25,334 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:11:25,334 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:11:25,335 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:11:43,733 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:11:43,782 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:11:43,792 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:11:43,793 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:11:43,793 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:11:43,794 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:11:43,795 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:11:43,796 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:11:43,798 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:11:43,798 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:11:43,800 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:11:43,800 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:11:43,803 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:11:43,821 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:11:54,739 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:11:54,790 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:11:54,800 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:11:54,801 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:11:54,802 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:11:54,803 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:11:54,803 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:11:54,804 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:11:54,805 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:11:54,806 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:11:54,806 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <6>
+2017-09-03 10:11:54,807 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:11:54,810 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:11:54,824 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:11:54,824 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:11:54,825 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <1>
+2017-09-03 10:11:54,825 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:11:54,827 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:11:54,830 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:11:54,831 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:11:54,831 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:12:29,568 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:12:29,615 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:12:29,624 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:12:29,625 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:12:29,625 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:12:29,626 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:12:29,627 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:12:29,628 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:12:29,630 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:12:29,631 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:12:29,632 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:12:29,633 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:12:29,636 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:12:29,655 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:12:42,972 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:12:43,019 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:12:43,029 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:12:43,029 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:12:43,030 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:12:43,031 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:12:43,032 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:12:43,033 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:12:43,035 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:12:43,035 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:12:43,036 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <4>
+2017-09-03 10:12:43,037 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:12:43,040 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:12:43,053 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:12:43,054 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:12:43,055 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:12:43,055 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:12:43,056 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:12:43,060 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:12:43,061 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:12:43,061 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:13:21,769 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:13:21,816 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:13:21,826 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:13:21,828 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:13:21,829 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:13:21,830 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:13:21,831 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:13:21,832 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:13:21,833 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:13:21,834 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:13:21,835 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:13:21,836 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:13:21,839 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:13:21,853 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:13:21,854 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:13:21,854 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:13:21,855 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:13:21,856 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:13:21,860 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:13:21,861 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:13:21,861 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:13:35,849 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:13:35,899 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:13:35,909 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:13:35,909 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:13:35,910 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:13:35,911 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:13:35,911 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:13:35,912 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:13:35,913 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:13:35,914 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:13:35,914 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:13:35,915 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:13:35,918 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:13:35,937 FATAL CsvParserConsole.Program Main - CsvHelper.CsvMissingFieldException: Field at index '1' does not exist.
+   bei CsvHelper.CsvReader.GetField[T](Int32 index, ITypeConverter converter)
+   bei CsvHelper.CsvReader.GetField[T](Int32 index)
+   bei CsvParserImp.ColumnDataReader.Read(UColumn[] uColumns, String filenameForReading, Int32 startReadAtRow) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\ColumnDataReader.cs:Zeile 45.
+   bei CsvParser.CsvParserApp.Parse(String configFilename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 50.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.
+2017-09-03 10:13:50,220 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:13:50,273 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:13:50,283 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:13:50,284 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:13:50,285 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:13:50,287 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:13:50,287 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:13:50,289 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:13:50,291 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:13:50,291 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:13:50,292 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <4>
+2017-09-03 10:13:50,293 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:13:50,296 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:13:50,310 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:13:50,311 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:13:50,311 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:13:50,312 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:13:50,314 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:13:50,318 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:13:50,319 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:13:50,319 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:14:57,398 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:14:57,444 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:14:57,453 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:14:57,453 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:14:57,454 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:14:57,456 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:14:57,457 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:14:57,457 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:14:57,459 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:14:57,460 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:14:57,461 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <4>
+2017-09-03 10:14:57,461 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:14:57,464 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:14:57,477 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:14:57,478 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:14:57,479 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:14:57,480 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:14:57,481 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:14:57,485 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:14:57,486 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:14:57,487 DEBUG CsvParserConsole.Program startApp - <---
+2017-09-03 10:15:17,267 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-03 10:15:17,314 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-03 10:15:17,324 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-03 10:15:17,325 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-03 10:15:17,325 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-03 10:15:17,326 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <configFile.txt>
+2017-09-03 10:15:17,327 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-03 10:15:17,328 DEBUG CsvParserImp.AppSettingsInternal GetColumns - ---> configFilename: <configFile.txt>
+2017-09-03 10:15:17,330 DEBUG CsvParserImp.AppSettingsInternal GetColumns - <---
+2017-09-03 10:15:17,331 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ... done
+2017-09-03 10:15:17,332 INFO CsvParser.CsvParserApp Parse - filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>, filenameForWriting: <D:\Daten\VisualStudio\CsvParser\Daten\output.csv>, startReadAtRow: <3>
+2017-09-03 10:15:17,333 INFO CsvParser.CsvParserApp Parse - Reading column data ...
+2017-09-03 10:15:17,336 DEBUG CsvParserImp.ColumnDataReader Read - ---> uColums.Count (No of columns in configFile): <2>, filenameForReading: <D:\Daten\VisualStudio\CsvParser\Daten\input.csv>
+2017-09-03 10:15:17,350 DEBUG CsvParserImp.ColumnDataReader Read - <---
+2017-09-03 10:15:17,351 INFO CsvParser.CsvParserApp Parse - Reading column data ... done
+2017-09-03 10:15:17,351 INFO CsvParser.CsvParserApp Parse - No of columns: <2>, no of rows: <3>
+2017-09-03 10:15:17,352 INFO CsvParser.CsvParserApp Parse - Writing column data ...
+2017-09-03 10:15:17,354 DEBUG CsvParserImp.ColumnDataWriter Write - --->
+2017-09-03 10:15:17,357 INFO CsvParser.CsvParserApp Parse - Writing column data ... done
+2017-09-03 10:15:17,358 DEBUG CsvParser.CsvParserApp Parse - <---
+2017-09-03 10:15:17,358 DEBUG CsvParserConsole.Program startApp - <---

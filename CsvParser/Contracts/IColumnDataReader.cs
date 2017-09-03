@@ -2,6 +2,6 @@
 {
     public interface IColumnDataReader
     {
-        void Read(UColumn[] uColumns, string filenameForReading);
+        void Read(UColumn[] uColumns, string filenameForReading, int startReadAtRow);
     }
 }

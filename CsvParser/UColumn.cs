@@ -6,7 +6,6 @@ namespace CsvParser
     {
         public int[] ColumnIndexForRead { get; set; }
         public int ColumnIndexForWrite { get; set; }
-        public int StartReadAtRow { get; set; }
         public List<string> Data { get; set; }
 
         public UColumn()

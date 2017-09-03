@@ -15,7 +15,7 @@ namespace CsvParserImp
     {
         private static readonly ILog log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
-        public void Read(UColumn[] uColumns, string filenameForReading)
+        public void Read(UColumn[] uColumns, string filenameForReading, int startReadAtRow)
         {
             log.Debug($"---> uColums.Count (No of columns in configFile): <{uColumns?.Length}>, filenameForReading: <{filenameForReading}>");
             if (uColumns == null) throw new ArgumentNullException("uColumns");
@@ -28,9 +28,15 @@ namespace CsvParserImp
                 using (var csv = new CsvReader(streamReader)) {
                     csv.Configuration.HasHeaderRecord = false;
                     csv.Configuration.Delimiter = ";";
-                    csv.Configuration.Quote = '"';
+                    int skippedRows = 0;
                     while (csv.Read())
                     {
+                        if (skippedRows < startReadAtRow)
+                        {
+                            skippedRows++;
+                            continue;
+                        }
+
                         foreach (var uColumn in uColumns)
                         {
                             StringBuilder field = new StringBuilder();

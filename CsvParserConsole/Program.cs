@@ -61,7 +61,7 @@ namespace CsvParserConsole
         private static void startApp()
         {
             log.Debug("--->");
-            csvParser.Parse("dummy.txt");
+            csvParser.Parse("configFile.txt");
             log.Debug("<---");
         }
 

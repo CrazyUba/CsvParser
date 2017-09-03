@@ -5,5 +5,6 @@
         UColumn[] GetColumns(string configFilename);
         string GetFilenameForReading(string configFilename);
         string GetFilenameForWriting(string configFilename);
+        int GetSkipNoOfRowsWithText(string configFilename);
     }
 }

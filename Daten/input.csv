@@ -1,3 +1,8 @@
-Route;Preis 2;Preis 1;
-123;4,50;3,90
-456;5,50;7,80
+Das ist eine Beispieldatei
+Dies ist ein Kommentar
+
+
+A test
+Price;RoutePrefix;Route
+4,50;123;456
+5,50;456;789
