@@ -1,0 +1,20 @@
+2017-09-02 18:55:53,338 DEBUG CsvParserConsole.Program - --->
+2017-09-02 18:55:53,347 DEBUG CsvParserConsole.Program - <---
+2017-09-02 18:57:22,795 DEBUG CsvParserConsole.Program - --->
+2017-09-02 18:57:22,807 DEBUG CsvParserConsole.Program - <---
+2017-09-02 18:58:00,149 DEBUG CsvParserConsole.Program - --->
+2017-09-02 18:58:01,040 DEBUG CsvParserConsole.Program - <---
+2017-09-02 19:21:27,468 DEBUG CsvParserConsole.Program Main - --->
+2017-09-02 19:21:28,085 DEBUG CsvParserConsole.Program Main - <---
+2017-09-02 19:46:03,869 DEBUG CsvParserConsole.Program initApp - --->
+2017-09-02 19:46:03,919 DEBUG CsvParser.CsvParserApp .ctor - --->
+2017-09-02 19:46:03,928 DEBUG CsvParser.CsvParserApp .ctor - <---
+2017-09-02 19:46:03,929 DEBUG CsvParserConsole.Program initApp - <---
+2017-09-02 19:46:03,930 DEBUG CsvParserConsole.Program startApp - --->
+2017-09-02 19:46:03,931 DEBUG CsvParser.CsvParserApp Parse - ---> filename: <dummy.txt>
+2017-09-02 19:46:03,931 INFO CsvParser.CsvParserApp Parse - Getting configuration for columns ...
+2017-09-02 19:46:03,939 FATAL CsvParserConsole.Program Main - System.NotImplementedException: Die Methode oder der Vorgang ist nicht implementiert.
+   bei CsvParserImp.AppSettingsInternal.Get(String filename) in D:\Daten\VisualStudio\CsvParser\CsvParserImp\AppSettingsInternal.cs:Zeile 15.
+   bei CsvParser.CsvParserApp.Parse(String filename) in D:\Daten\VisualStudio\CsvParser\CsvParser\CsvParserApp.cs:Zeile 41.
+   bei CsvParserConsole.Program.startApp() in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 64.
+   bei CsvParserConsole.Program.Main(String[] args) in D:\Daten\VisualStudio\CsvParser\CsvParserConsole\Program.cs:Zeile 28.

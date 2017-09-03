@@ -1,0 +1,14 @@
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\CsvParserImp.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\CsvParserImp.pdb
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\CsvParser.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\log4net.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\CsvParser.pdb
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\log4net.xml
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\obj\Debug\CsvParserImp.csprojResolveAssemblyReference.cache
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\obj\Debug\CsvParserImp.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\obj\Debug\CsvParserImp.pdb
