@@ -39,19 +39,20 @@ namespace CsvParser
             // GetColumnConfiguration
             log.Info("Getting configuration for columns ...");
             UColumn[] uColumns = this.appSettings.GetColumns(configFilename);
-            string filenameForReading = this.appSettings.GetFilenameForRead(configFilename);
-            string filenameForWriting = this.appSettings.GetFilenameForWrite(configFilename);
+            string filenameForReading = this.appSettings.GetFilenameForReading(configFilename);
+            string filenameForWriting = this.appSettings.GetFilenameForWriting(configFilename);
 
             log.Info("Getting configuration for columns ... done");
 
             // ReadColumnData
             log.Info("Reading column data ...");
-            columnDataReader.Read(uColumns, filenameForRead);
+            columnDataReader.Read(uColumns, filenameForReading);
             log.Info("Reading column data ... done");
+            log.Info($"No of columns: <{uColumns.Length}>, no of rows: <{uColumns[0].Data.Count}>");
 
             // WriteColumnData
             log.Info("Writing column data ...");
-            columnDataWriter.Write(uColumns, filenameForWrite);
+            columnDataWriter.Write(uColumns, filenameForWriting);
             log.Info("Writing column data ... done");
 
             log.Debug("<---");

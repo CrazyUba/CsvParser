@@ -8,5 +8,10 @@ namespace CsvParser
         public int ColumnIndexForWrite { get; set; }
         public int StartReadAtRow { get; set; }
         public List<string> Data { get; set; }
+
+        public UColumn()
+        {
+            Data = new List<string>();
+        }
     }
 }

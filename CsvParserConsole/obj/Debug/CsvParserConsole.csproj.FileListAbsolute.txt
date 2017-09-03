@@ -19,3 +19,5 @@ D:\Daten\VisualStudio\CsvParser\CsvParserConsole\bin\Debug\Microsoft.Practices.S
 D:\Daten\VisualStudio\CsvParser\CsvParserConsole\bin\Debug\Microsoft.Practices.Unity.xml
 D:\Daten\VisualStudio\CsvParser\CsvParserConsole\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\Daten\VisualStudio\CsvParser\CsvParserConsole\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Daten\VisualStudio\CsvParser\CsvParserConsole\bin\Debug\CsvHelper.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserConsole\bin\Debug\CsvHelper.xml

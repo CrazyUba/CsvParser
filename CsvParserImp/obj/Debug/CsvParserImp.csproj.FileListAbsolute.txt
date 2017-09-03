@@ -12,3 +12,5 @@ D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\Microsoft.Practices.Servi
 D:\Daten\VisualStudio\CsvParser\CsvParserImp\obj\Debug\CsvParserImp.csprojResolveAssemblyReference.cache
 D:\Daten\VisualStudio\CsvParser\CsvParserImp\obj\Debug\CsvParserImp.dll
 D:\Daten\VisualStudio\CsvParser\CsvParserImp\obj\Debug\CsvParserImp.pdb
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\CsvHelper.dll
+D:\Daten\VisualStudio\CsvParser\CsvParserImp\bin\Debug\CsvHelper.xml
