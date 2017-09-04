@@ -38,16 +38,16 @@ namespace CsvParser
 
             // GetColumnConfiguration
             log.Info("Getting configuration for columns ...");
-            UColumn[] uColumns = this.appSettings.GetColumns(configFilename);
-            string filenameForReading = this.appSettings.GetFilenameForReading(configFilename);
-            string filenameForWriting = this.appSettings.GetFilenameForWriting(configFilename);
-            int startReadAtRow = this.appSettings.GetSkipNoOfRowsWithText(configFilename);
+            UColumn[] uColumns = this.appSettings.UColumns;
+            string filenameForReading = this.appSettings.FilenameForReading;
+            string filenameForWriting = this.appSettings.FilenameForWriting;
+            int skipNoOfRowsWithText = this.appSettings.SkipNoOfRowsWithText; 
             log.Info("Getting configuration for columns ... done");
-            log.Info($"filenameForReading: <{filenameForReading}>, filenameForWriting: <{filenameForWriting}>, startReadAtRow: <{startReadAtRow}>");
+            log.Info($"filenameForReading: <{filenameForReading}>, filenameForWriting: <{filenameForWriting}>, skipNoOfRowsWithText: <{skipNoOfRowsWithText}>");
 
             // ReadColumnData
             log.Info("Reading column data ...");
-            columnDataReader.Read(uColumns, filenameForReading, startReadAtRow);
+            columnDataReader.Read(uColumns, filenameForReading, skipNoOfRowsWithText);
             log.Info("Reading column data ... done");
             log.Info($"No of columns: <{uColumns.Length}>, no of rows: <{uColumns[0].Data.Count}>");
 

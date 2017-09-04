@@ -1,0 +1,13 @@
+{
+
+"SkipNoOfRowsWithText":3,
+
+"FilenameForReading":"C:\\Devel\\VisalStudio\\Projects\\CsvParser\\Daten\\inputBIC.csv",
+
+"FilenameForWriting":"C:\\Devel\\VisalStudio\\Projects\\CsvParser\\Daten\\outputBIC.csv",
+
+"UColumns":[
+	{"ColumnIndexForRead":[1],"ColumnIndexForWrite":2,"Data":[]},
+	{"ColumnIndexForRead":[2,3],"ColumnIndexForWrite":1,"Data":[]}
+	]
+}

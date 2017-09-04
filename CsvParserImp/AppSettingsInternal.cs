@@ -13,31 +13,53 @@ namespace CsvParserImp
     {
         private static readonly ILog log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
-        public UColumn[] GetColumns(string configFilename)
+        public int SkipNoOfRowsWithText { get; private set; }
+
+        public string FilenameForReading { get; private set; }
+
+        public string FilenameForWriting { get; private set; }
+
+        public UColumn[] UColumns { get; private set; }
+
+        public AppSettingsInternal()
         {
-            log.Debug($"---> configFilename: <{configFilename}>");
-            UColumn[] uColumns = {
+            SkipNoOfRowsWithText = 3;
+            FilenameForReading =  @"C:\Devel\VisalStudio\Projects\CsvParser\Daten\input.csv";
+            FilenameForWriting =  @"C:\Devel\VisalStudio\Projects\CsvParser\Daten\output.csv";
+
+            UColumns = new UColumn[] {
                 new UColumn { ColumnIndexForRead = new int[] {1} , ColumnIndexForWrite = 2},
-                new UColumn { ColumnIndexForRead = new int[] {2,3} , ColumnIndexForWrite = 1},
+                new UColumn { ColumnIndexForRead = new int[] {2,3} , ColumnIndexForWrite = 1}
             };
-
-            log.Debug("<---");
-            return uColumns;
         }
 
-        public int GetSkipNoOfRowsWithText(string configFilename)
-        {
-            return 3;
-        }
 
-        public string GetFilenameForReading(string configFilename)
-        {
-            return @"D:\Daten\VisualStudio\CsvParser\Daten\input.csv";
-        }
 
-        public string GetFilenameForWriting(string configFilename)
-        {
-            return @"D:\Daten\VisualStudio\CsvParser\Daten\output.csv";
-        }
+        //public UColumn[] GetColumns(string configFilename)
+        //{
+        //    log.Debug($"---> configFilename: <{configFilename}>");
+        //    UColumn[] uColumns = {
+        //        new UColumn { ColumnIndexForRead = new int[] {1} , ColumnIndexForWrite = 2},
+        //        new UColumn { ColumnIndexForRead = new int[] {2,3} , ColumnIndexForWrite = 1},
+        //    };
+
+        //    log.Debug("<---");
+        //    return uColumns;
+        //}
+
+        //public int GetSkipNoOfRowsWithText(string configFilename)
+        //{
+        //    return 3;
+        //}
+
+        //public string GetFilenameForReading(string configFilename)
+        //{
+        //    return @"C:\Devel\VisalStudio\Projects\CsvParser\Daten\input.csv";
+        //}
+
+        //public string GetFilenameForWriting(string configFilename)
+        //{
+        //    return @"C:\Devel\VisalStudio\Projects\CsvParser\Daten\output.csv";
+        //}
     }
 }

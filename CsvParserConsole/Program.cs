@@ -20,10 +20,12 @@ namespace CsvParserConsole
         {
             try
             {
+                string configFilename = "config.json";
+                if (args.Length == 1) configFilename = args[0].ToString();
 
                 initConsole();
 
-                initApp();
+                initApp(configFilename);
 
                 startApp();
 
@@ -34,6 +36,7 @@ namespace CsvParserConsole
             catch (Exception e)
             {
                 log.Fatal(e);
+                Console.ReadKey();
             }
         }
 
@@ -45,11 +48,12 @@ namespace CsvParserConsole
         }
 
 
-        private static void initApp()
+        private static void initApp(string configFilename)
         {
             log.Debug("--->");
             IUnityContainer container = new UnityContainer();
-            container.RegisterInstance<IAppSettings>(new AppSettingsInternal());
+            //container.RegisterInstance<IAppSettings>(new AppSettingsInternal());
+            container.RegisterInstance<IAppSettings>(new AppSettingsJson(configFilename));
             container.RegisterInstance<IColumnDataReader>(new ColumnDataReader());
             container.RegisterInstance<IColumnDataWriter>(new ColumnDataWriter());
 
@@ -70,6 +74,7 @@ namespace CsvParserConsole
         {
             Console.Beep();
             Console.Beep();
+            Console.ReadKey();
         }
 
 

@@ -1,0 +1,14 @@
+{
+
+"SkipNoOfRowsWithText":1,
+
+"FilenameForReading":"C:\\Devel\\VisalStudio\\Projects\\CsvParser\\Daten\\inputPTI.csv",
+
+"FilenameForWriting":"C:\\Devel\\VisalStudio\\Projects\\CsvParser\\Daten\\outputPTI.csv",
+
+"UColumns":[
+	{"ColumnIndexForRead":[1],"ColumnIndexForWrite":3,"Data":[]},
+	{"ColumnIndexForRead":[2],"ColumnIndexForWrite":1,"Data":[]},
+	{"ColumnIndexForRead":[3],"ColumnIndexForWrite":2,"Data":[]}
+	]
+}
